@@ -12,4 +12,4 @@
 A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre as componentes de iluminação e reflectância separadamente. 
 Como mostrado na equação abaixo:
 
-				__f(x,y) = i(x,y)r(x,y)__
+				_f(x,y)=i(x,y)r(x,y)_
