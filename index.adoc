@@ -4,6 +4,7 @@
 
 === 8.2 - EXERCÍCIO:
 	Utilizando o programa exemplos/dft.cpp como referência, implemente o filtro homomórfico para melhorar imagens com iluminação irregular. Crie uma cena mal iluminada e ajuste os parâmetros do filtro homomórfico para corrigir a iluminação da melhor forma possível. Assuma que a imagem fornecida é em tons de cinza.
+
 === SOLUÇÃO:
 
 **Filtragem Homomórfica**
@@ -11,4 +12,4 @@
 A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre as componentes de iluminação e reflectância separadamente. 
 Como mostrado na equação abaixo:
 
-_latexmath:[f(x,y) = i(x,y)r(x,y)]_
+latexmath:[f(x,y) = i(x,y)r(x,y)]
