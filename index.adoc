@@ -2,7 +2,7 @@
 = ATIVIDADES UNIDADE 2:
 :stem: latexmath
 
-[.text-center]
+[.text-center-justified]
 == FILTRAGEM NO DOMÍNIO DA FREQUÊNCIA
 
 [.text-center]
