@@ -14,13 +14,13 @@
 
 [.text-center]
 **Filtragem Homomórfica**
-
+[.text-right]
 A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre as componentes de iluminação e reflectância separadamente. 
 Como mostrado na equação abaixo:
 
 [.text-center]
 stem:[f(x,y)=i(x,y)r(x,y)]
-
+[.text-right]
 Em que esse método de filtragem é deduzido na seguinte imagem:
 
 image::homomorfic.png[500,500,float="center",align="center"]
