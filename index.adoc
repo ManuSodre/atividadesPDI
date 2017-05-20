@@ -14,7 +14,7 @@ A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre a
 Como mostrado na equação abaixo:
 
 
-				stem:[f(x,y)=i(x,y)r(x,y)]
+-------------stem:[f(x,y)=i(x,y)r(x,y)]
 
 Em que esse método de filtragem é deduzido na seguinte imagem:
 
