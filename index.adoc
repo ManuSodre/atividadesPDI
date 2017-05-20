@@ -15,3 +15,7 @@ Como mostrado na equação abaixo:
 
 
 stem:[f(x,y)=i(x,y)r(x,y)]
+
+Em que esse método de filtragem é deduzido na seguinte imagem:
+
+image::homomorfic.png[]
