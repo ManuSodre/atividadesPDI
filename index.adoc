@@ -32,19 +32,22 @@ image::homomorfic.png[500,500,float="center",align="center"]
 O filtro homomórfico funciona com a idéia de que a "iluminação" é a componente de baixa-frequência e a "reflectância" é a componente de alta-frequência. Onde aumenta-se o contraste se a iluminação é diminuida (i<1) e a reflectância é aumentada (r>1). 
 Nessa transição pode-se utilizar qualquer curva, mas geralmente utiliza-se Butterworth ou Gaussiano. 
 
+[.text-left]
 Podemos ver na figura abaixo um corte transversal de um filtro como esse. 
 
 image::grafic.png[500,500,float="center",align="center"]
 
+[.text-left]
 E logo abaixo temos também uma forma ligeiramente modificada do filtro passa-alta gaussiano.
 
 image::formule.png[500,500,float="center",align="center"]
 
+[.text-left]
 Abaixo temos o código de implementação do filtro:
 
 .homomorfic.cpp
-++++
+----
 <script src="https://github.com/ManuSodre/atividadesPDI/blob/master/homomorfic.cpp">
 </script>
-++++
+----
 
