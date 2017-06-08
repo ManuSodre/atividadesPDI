@@ -48,11 +48,11 @@ Abaixo temos o código de implementação do filtro:
 .homomorfic.cpp
 
 
-
+[source,cpp]
 [.text-left]
 
 ----
-[source,cpp]
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
