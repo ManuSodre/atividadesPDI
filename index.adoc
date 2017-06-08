@@ -47,11 +47,10 @@ Abaixo temos o código de implementação do filtro:
 
 .homomorfic.cpp
 
+
+[source,cpp,numbered]
 [.text-left]
 
-:language:cpp
-
-[source]
 ----
 
 #include <iostream>
@@ -234,4 +233,4 @@ int main(int argc , char** argv){
 [.text-left]
 Abaixo mostramos a imagem original e ao lado a imagem com o filtro homomórfico aplicado. 
 
-image::homomorficFilter.png[1000,1000,float="center",align="center"]
+image::homomorficFilter.png[1000,10000,float="center",align="center"]
