@@ -44,7 +44,7 @@ Abaixo temos o código de implementação do filtro:
 
 .homomorfic.cpp
 ++++
-<script src="http://gist.github.com/mojavelinux/5333524.js">
+<script src="https://github.com/ManuSodre/atividadesPDI/blob/master/homomorfic.cpp">
 </script>
 ++++
 
