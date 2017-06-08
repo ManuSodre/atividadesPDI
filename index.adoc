@@ -227,3 +227,7 @@ int main(int argc , char** argv){
 
 ----
 
+[.text-left]
+Abaixo mostramos a imagem original e ao lado a imagem com o filtro homomórfico aplicado. 
+
+image::homomorficFilter.png[500,500,float="center",align="center"]
