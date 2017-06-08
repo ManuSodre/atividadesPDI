@@ -17,7 +17,8 @@
 [.text-center]
 **Filtragem Homomórfica**
 [.text-left]
-A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre as componentes de iluminação e reflectância separadamente. 
+A filtragem homomórfica trata-se basicamente de uma abordagem que opera sobre as componentes de iluminação e reflectância separadamente. Em que ela atenua as baixas-frequências e realça as altas. 
+
 Como mostrado na equação abaixo:
 
 [.text-center]
@@ -26,5 +27,10 @@ stem:[f(x,y)=i(x,y)r(x,y)]
 Em que esse método de filtragem é deduzido na seguinte imagem:
 
 image::homomorfic.png[500,500,float="center",align="center"]
+
+[.text-center]
+O filtro homomórfico funciona com a idéia de que a "iluminação" é a componente de baixa-frequência e a "reflectância" é a componente de alta-frequência. Onde aumenta-se o contraste se a iluminação pe diminuida (i<1) e a reflectância é aumentada (r>1). 
+Nessa transição pode-se utilizar qualquer curva, mas geralmente utiliza-se Butterworth ou Gaussiano. 
+
 
 
