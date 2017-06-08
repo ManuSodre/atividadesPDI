@@ -46,7 +46,7 @@ image::formule.png[500,500,float="center",align="center"]
 Abaixo temos o código de implementação do filtro:
 
 .homomorfic.cpp
-[source,cpp,subs="verbatim,attributes"]
+[source,cpp]
 ----
 [.text-left]
 #include <iostream>
