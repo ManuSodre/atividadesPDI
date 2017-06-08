@@ -47,10 +47,11 @@ Abaixo temos o código de implementação do filtro:
 
 .homomorfic.cpp
 
-
-[source,cpp]
 [.text-left]
 
+:language:cpp
+
+[source]
 ----
 
 #include <iostream>
